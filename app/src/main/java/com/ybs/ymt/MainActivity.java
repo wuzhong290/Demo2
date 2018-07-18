@@ -36,7 +36,7 @@ public class MainActivity extends AppCompatActivity {
 //            intent.addCategory(Intent.CATEGORY_LAUNCHER);
 //        }
 //        intent.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK | Intent.FLAG_ACTIVITY_RESET_TASK_IF_NEEDED);
-//        intent.putExtra("key_web_url", "http://112.50.251.24:28080/gpf-web-fjyd/login.html?actionName=edu_login&recommendName=edu_login");
+//        intent.putExtra("key_web_url", "key_web_url");
 //        try{
 //            startActivity(intent);
 //        }catch (Exception e){
